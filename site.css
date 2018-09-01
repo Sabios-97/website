@@ -1,0 +1,58 @@
+body{
+	background: url(https://images.wallpaperscraft.com/image/fashion_week_spring_2014_milan_street_style_97093_1920x1080.jpg) top no-repeat,url(https://images.wallpaperscraft.com/image/wall_wallpaper_glitter_patterns_69476_300x168.jpg) bottom repeat;
+    
+    background-size:130% 900px;
+    color:white;
+	text-align: center;
+	padding-top: 15%;
+	padding-bottom: 100px;
+}
+a img{
+	width: 30px;
+	height:30px;
+}
+
+}
+#height img{
+	height:450px;
+}
+#h img{
+	height: 450px;
+}
+#rox{
+	margin-top: 150px;
+}
+
+h3{padding-top: 100px;
+
+	color:white;
+	font-size: 30px;
+	letter-spacing: 3px;
+	padding-bottom: 20px;
+}
+hr {
+	width:400px;
+}
+h1{
+	font-size: 100px;
+
+
+}
+
+.fas{
+	font-size: 30px;
+	
+    
+}
+#font{font-family: 'Vidaloka', serif;
+
+
+}
+.dropdown{
+	padding-top: 10px;
+	color:grey;
+	margin-right: 4px;
+}
+form{
+	padding:7px;
+}
